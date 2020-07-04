@@ -18,15 +18,20 @@ Neural Networks)[https://papers.nips.cc/paper/4824-imagenet-classification-with-
 (Going deeper with convolutions)[https://arxiv.org/pdf/1409.4842.pdf]
 
 ### **Object Detection Tasks Architectures**
-6. **YOLO**
-(You Only Look Once: Unified, Real-Time Object Detection)[https://arxiv.org/pdf/1506.02640.pdf]
-7. **SSD**
-(SSD: Single Shot MultiBox Detector)[https://arxiv.org/pdf/1512.02325.pdf]
-8. **R-CNN**
+6. Selective Search for Object Recognition 
+[http://www.huppelen.nl/publications/selectiveSearchDraft.pdf]
+7. **Region Proposal R-CNN**
 (Rich feature hierarchies for accurate object detection and semantic segmentation)[https://arxiv.org/pdf/1311.2524.pdf]
-9. **Fast RCNN**
-10. **Faster RCNN**
+8. **Fast R-CNN**
+(Fast R-CNN)[https://arxiv.org/pdf/1504.08083.pdf]
+9. **Faster RCNN**
 (Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks)[https://arxiv.org/pdf/1506.01497.pdf]
+10. **SSD**
+(SSD: Single Shot MultiBox Detector)[https://arxiv.org/pdf/1512.02325.pdf]
+11. **YOLO**
+(You Only Look Once: Unified, Real-Time Object Detection)
+[https://arxiv.org/pdf/1506.02640.pdf]
+[https://arxiv.org/pdf/1506.02640v5.pdf]
 
 
 ## _**Natural Language Processing**_
