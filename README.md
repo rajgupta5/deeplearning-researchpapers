@@ -31,16 +31,19 @@ Neural Networks)[https://papers.nips.cc/paper/4824-imagenet-classification-with-
 11. **YOLO**
 (You Only Look Once: Unified, Real-Time Object Detection)
 
-   11.1***YOLOv1***
-  [https://arxiv.org/pdf/1506.02640.pdf]
-  https://docs.google.com/presentation/d/1aeRvtKG21KHdD5lg6Hgyhx5rPq_ZOsGjG5rJ1HP7BbA/pub?start=false&loop=false&delayms=3000&slide=id.p
-  https://deepsystems.ai/reviews
+   11.1 ***YOLOv1***
+   [https://arxiv.org/pdf/1506.02640.pdf]
+   [https://docs.google.com/presentation/d/1aeRvtKG21KHdD5lg6Hgyhx5rPq_ZOsGjG5rJ1HP7BbA/pub?start=false&loop=false&delayms=3000&slide=id.p]
+   [https://deepsystems.ai/reviews]
 
-   11.2***YOLOv2***
-  https://pjreddie.com/media/files/papers/YOLO9000.pdf
+   11.2 ***YOLOv2***
+    [https://pjreddie.com/media/files/papers/YOLO9000.pdf]
 
-   11.3***YOLOv3***
-  https://arxiv.org/pdf/1804.02767.pdf
+   11.3 ***YOLOv3***
+    [https://arxiv.org/pdf/1804.02767.pdf]
+  
+   11.4 ***YOLOv4***
+    [https://www.researchgate.net/publication/340883401_YOLOv4_Optimal_Speed_and_Accuracy_of_Object_Detection]
 
 
 
