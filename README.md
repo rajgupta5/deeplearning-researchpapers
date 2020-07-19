@@ -30,8 +30,13 @@ Neural Networks)[https://papers.nips.cc/paper/4824-imagenet-classification-with-
 (SSD: Single Shot MultiBox Detector)[https://arxiv.org/pdf/1512.02325.pdf]
 11. **YOLO**
 (You Only Look Once: Unified, Real-Time Object Detection)
+YOLOv1
 [https://arxiv.org/pdf/1506.02640.pdf]
-[https://arxiv.org/pdf/1506.02640v5.pdf]
+https://docs.google.com/presentation/d/1aeRvtKG21KHdD5lg6Hgyhx5rPq_ZOsGjG5rJ1HP7BbA/pub?start=false&loop=false&delayms=3000&slide=id.p
+YOLOv2
+https://pjreddie.com/media/files/papers/YOLO9000.pdf
+YOLOv3
+
 
 
 ## _**Natural Language Processing**_
