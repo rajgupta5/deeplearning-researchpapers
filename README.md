@@ -49,8 +49,13 @@ Neural Networks)[https://papers.nips.cc/paper/4824-imagenet-classification-with-
 
 ## _**Natural Language Processing**_
 
+![Transformer Based Models](https://miro.medium.com/max/1400/1*bG8dQv1L6o3NRXyCau4Rzg.png)
+
 ### **Text Classification**
 1. (Deep Learning Based Text Classification: A Comprehensive Review)[https://arxiv.org/pdf/2004.03705.pdf]
+
+2. Transformers: Attention is all you need
+[https://arxiv.org/pdf/1706.03762.pdf]
 
 ### **NLP Models**
 1. GPT-1
@@ -68,4 +73,7 @@ Neural Networks)[https://papers.nips.cc/paper/4824-imagenet-classification-with-
 6. ALBERT
 
 7. DistilBERT
+
+8. T5 - Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer
+[https://arxiv.org/abs/1910.10683]
 
