@@ -1,6 +1,7 @@
 # deeplearning-researchpapers
 
 ## _**Computer Vision**_
+![CNN Architectures timeline](https://miro.medium.com/max/5788/1*dc07I4_N_IWDJVb6cM-KsQ.png)
 
 ### **Image Classification Tasks Architectures**
 1. **LeNet5** 
