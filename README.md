@@ -19,6 +19,7 @@ Neural Networks)[https://papers.nips.cc/paper/4824-imagenet-classification-with-
 (Going deeper with convolutions)[https://arxiv.org/pdf/1409.4842.pdf]
 
 ### **Object Detection Tasks Architectures**
+![OD Algos timeline](https://www.mdpi.com/electronics/electronics-09-00583/article_deploy/html/images/electronics-09-00583-g001.png)
 6. Selective Search for Object Recognition 
 [http://www.huppelen.nl/publications/selectiveSearchDraft.pdf]
 7. **Region Proposal R-CNN**
