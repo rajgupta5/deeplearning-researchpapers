@@ -51,3 +51,10 @@ Neural Networks)[https://papers.nips.cc/paper/4824-imagenet-classification-with-
 
 ### **Text Classification**
 1. (Deep Learning Based Text Classification: A Comprehensive Review)[https://arxiv.org/pdf/2004.03705.pdf]
+
+### **NLP Models**
+1. GPT-2
+[https://arxiv.org/pdf/2001.08764.pdf]
+
+2. GPT-3
+[https://arxiv.org/pdf/2005.14165.pdf]
