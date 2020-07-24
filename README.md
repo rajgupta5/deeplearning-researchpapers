@@ -53,8 +53,19 @@ Neural Networks)[https://papers.nips.cc/paper/4824-imagenet-classification-with-
 1. (Deep Learning Based Text Classification: A Comprehensive Review)[https://arxiv.org/pdf/2004.03705.pdf]
 
 ### **NLP Models**
-1. GPT-2
+1. GPT-1
+
+2. GPT-2
 [https://arxiv.org/pdf/2001.08764.pdf]
 
-2. GPT-3
+3. GPT-3
 [https://arxiv.org/pdf/2005.14165.pdf]
+
+4. BERT
+
+5. ELMO
+
+6. ALBERT
+
+7. DistilBERT
+
