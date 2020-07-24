@@ -11,10 +11,15 @@ Recognition)[http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf]
 (ImageNet Classification with Deep Convolutional
 Neural Networks)[https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf]
 (The History Began from AlexNet: A Comprehensive Survey on Deep Learning Approaches)[https://arxiv.org/pdf/1803.01164.pdf]
+Explanation
+[https://www.youtube.com/watch?v=Nq3auVtvd9Q]
 3. **VGG16,19**
 (VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION)[https://arxiv.org/pdf/1409.1556.pdf]
 4. **ResNet**
 (Deep Residual Learning for Image Recognition)[https://arxiv.org/pdf/1512.03385.pdf]
+Explanation
+[https://www.youtube.com/watch?v=GWt6Fu05voI]
+
 5. **GoogleNet/InceptionNet**
 (Going deeper with convolutions)[https://arxiv.org/pdf/1409.4842.pdf]
 
@@ -60,6 +65,13 @@ https://medium.com/@Moscow25/the-best-deep-natural-language-papers-you-should-re
 
 2. Transformers: Attention is all you need
 [https://arxiv.org/pdf/1706.03762.pdf]
+Explanation
+[https://www.youtube.com/watch?v=iDulhoQ2pro&list=PL1v8zpldgH3pXDttKKp8mlVKDitxsYDAp&index=6]
+
+3. Word2Vec - Distributed Representations of Words and Phrases and their Compositionality
+[https://arxiv.org/pdf/1310.4546.pdf]
+Explanation
+[https://www.youtube.com/watch?v=yexR53My2O4]
 
 ### **NLP Models**
 1. GPT-1
@@ -67,10 +79,15 @@ https://medium.com/@Moscow25/the-best-deep-natural-language-papers-you-should-re
 2. GPT-2
 [https://arxiv.org/pdf/2001.08764.pdf]
 
-3. GPT-3
+3. GPT-3 - Language Models are Few-Shot Learners
 [https://arxiv.org/pdf/2005.14165.pdf]
+Explanation
+[https://www.youtube.com/watch?v=SY5PvZrJhLE]
 
-4. BERT
+4. BERT - Pre-training of Deep Bidirectional Transformers for Language Understanding
+[https://arxiv.org/pdf/1810.04805.pdf]
+Explanation
+[https://www.youtube.com/watch?v=-9evrZnBorM]
 
 5. ELMO
 
