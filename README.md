@@ -1,5 +1,12 @@
 # deeplearning-researchpapers
 
+
+## **Neural Network**
+1. Adam - A METHOD FOR STOCHASTIC OPTIMIZATION
+[https://arxiv.org/pdf/1412.6980.pdf]
+
+
+
 ## _**Computer Vision**_
 ![CNN Architectures timeline](https://miro.medium.com/max/5788/1*dc07I4_N_IWDJVb6cM-KsQ.png)
 
