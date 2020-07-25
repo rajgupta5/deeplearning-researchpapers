@@ -83,7 +83,7 @@ Explanation
 ### **NLP Models**
 1. GPT-1
 
-2. GPT-2
+2. GPT-2 - stands for “Generative Pretrained Transformer 2”: “Generative” means the model was trained to predict (or “generate”) the next token in a sequence of tokens in an unsupervised way
 [https://arxiv.org/pdf/2001.08764.pdf]
 
 3. GPT-3 - Language Models are Few-Shot Learners
