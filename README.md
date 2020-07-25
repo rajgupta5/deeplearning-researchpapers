@@ -14,36 +14,64 @@
 1. **LeNet5** 
 (GradientBased Learning Applied to Document
 Recognition)[http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf]
+Explanation
+[https://www.youtube.com/watch?v=SrhFB3o14yc]
+
+
 2. **AlexNet**
 (ImageNet Classification with Deep Convolutional
 Neural Networks)[https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf]
 (The History Began from AlexNet: A Comprehensive Survey on Deep Learning Approaches)[https://arxiv.org/pdf/1803.01164.pdf]
 Explanation
 [https://www.youtube.com/watch?v=Nq3auVtvd9Q]
+[https://www.youtube.com/watch?v=JOuHjUumVE8]
+
+
 3. **VGG16,19**
 (VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION)[https://arxiv.org/pdf/1409.1556.pdf]
+Explanation
+[https://www.youtube.com/watch?v=x9HF1Vhk9Rw&feature=youtu.be]
+
+
 4. **ResNet**
 (Deep Residual Learning for Image Recognition)[https://arxiv.org/pdf/1512.03385.pdf]
 Explanation
 [https://www.youtube.com/watch?v=GWt6Fu05voI]
+[https://www.youtube.com/watch?v=imqN-JlGYb4]
 
 5. **GoogleNet/InceptionNet**
 (Going deeper with convolutions)[https://arxiv.org/pdf/1409.4842.pdf]
+Explanation
+[https://www.youtube.com/watch?v=EfpbbaJ_JG0&t=3404s]
 
 ### **Object Detection Tasks Architectures**
 ![OD Algos timeline](https://www.mdpi.com/electronics/electronics-09-00583/article_deploy/html/images/electronics-09-00583-g001.png)
+
 6. Selective Search for Object Recognition 
 [http://www.huppelen.nl/publications/selectiveSearchDraft.pdf]
+
 7. **Region Proposal R-CNN**
 (Rich feature hierarchies for accurate object detection and semantic segmentation)[https://arxiv.org/pdf/1311.2524.pdf]
+Explanation
+[https://www.youtube.com/watch?v=BzMLBDcUqL0]
+
 8. **Fast R-CNN**
 (Fast R-CNN)[https://arxiv.org/pdf/1504.08083.pdf]
+Explanation
+[https://www.youtube.com/watch?v=BzMLBDcUqL0]
+
 9. **Faster RCNN**
 (Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks)[https://arxiv.org/pdf/1506.01497.pdf]
+Explanation
+[https://www.youtube.com/watch?v=7KBpKJjPSG8]
+
 10. **SSD**
 (SSD: Single Shot MultiBox Detector)[https://arxiv.org/pdf/1512.02325.pdf]
+
 11. **YOLO**
 (You Only Look Once: Unified, Real-Time Object Detection)
+Explanation
+[https://www.youtube.com/watch?v=NkM3y3h8X8M]
 
    11.1 ***YOLOv1***
    [https://arxiv.org/pdf/1506.02640.pdf]
