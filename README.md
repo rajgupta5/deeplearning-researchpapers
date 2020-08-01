@@ -5,6 +5,18 @@
 1. Adam - A METHOD FOR STOCHASTIC OPTIMIZATION
 [https://arxiv.org/pdf/1412.6980.pdf]
 
+2. Leaky RELU
+[https://ai.stanford.edu/~amaas/papers/relu_hybrid_icml2013_final.pdf]
+
+3. ELU
+[https://arxiv.org/pdf/1511.07289.pdf]
+
+4. SELU
+[https://arxiv.org/pdf/1706.02515.pdf]
+
+5. GELU
+[https://arxiv.org/pdf/1606.08415.pdf]
+
 
 
 ## _**Computer Vision**_
