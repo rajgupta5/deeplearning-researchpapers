@@ -107,7 +107,7 @@ Explanation
 
 https://medium.com/@Moscow25/the-best-deep-natural-language-papers-you-should-read-bert-gpt-2-and-looking-forward-1647f4438797
 
-### **Text Classification**
+
 1. (Deep Learning Based Text Classification: A Comprehensive Review)[https://arxiv.org/pdf/2004.03705.pdf]
 
 2. Transformers: Attention is all you need
@@ -123,7 +123,10 @@ Explanation
 4. Sequence to Sequence learning with NN 
 [https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf]
 
-### **NLP Models**
+5. NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE
+[https://arxiv.org/pdf/1409.0473.pdf]
+
+### **NLP Language Models**
 1. GPT-1
 
 2. GPT-2 - stands for “Generative Pretrained Transformer 2”: “Generative” means the model was trained to predict (or “generate”) the next token in a sequence of tokens in an unsupervised way
