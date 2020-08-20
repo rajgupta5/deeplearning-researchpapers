@@ -120,6 +120,9 @@ Explanation
 Explanation
 [https://www.youtube.com/watch?v=yexR53My2O4]
 
+4. Sequence to Sequence learning with NN 
+[https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf]
+
 ### **NLP Models**
 1. GPT-1
 
