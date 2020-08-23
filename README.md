@@ -126,6 +126,9 @@ Explanation
 5. NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE
 [https://arxiv.org/pdf/1409.0473.pdf]
 
+6. BLEU: a Method for Automatic Evaluation of Machine Translation
+[https://www.aclweb.org/anthology/P02-1040.pdf]
+
 ### **NLP Language Models**
 1. GPT-1
 
