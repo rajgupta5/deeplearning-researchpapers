@@ -129,6 +129,9 @@ Explanation
 6. BLEU: a Method for Automatic Evaluation of Machine Translation
 [https://www.aclweb.org/anthology/P02-1040.pdf]
 
+7. Effective Modeling of Encoder-Decoder Architecture for Joint Entity and Relation Extraction
+[https://arxiv.org/pdf/1911.09886.pdf]
+
 ### **NLP Language Models**
 1. GPT-1
 
