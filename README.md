@@ -114,6 +114,7 @@ https://medium.com/@Moscow25/the-best-deep-natural-language-papers-you-should-re
 [https://arxiv.org/pdf/1706.03762.pdf]
 Explanation
 [https://www.youtube.com/watch?v=iDulhoQ2pro&list=PL1v8zpldgH3pXDttKKp8mlVKDitxsYDAp&index=6]
+[http://jalammar.github.io/illustrated-transformer/]
 
 3. Word2Vec - Distributed Representations of Words and Phrases and their Compositionality
 [https://arxiv.org/pdf/1310.4546.pdf]
@@ -122,6 +123,7 @@ Explanation
 
 4. Sequence to Sequence learning with NN 
 [https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf]
+[https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/]
 
 5. NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE
 [https://arxiv.org/pdf/1409.0473.pdf]
