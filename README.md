@@ -105,11 +105,16 @@ Explanation
    11.4 ***YOLOv4***
     [https://www.researchgate.net/publication/340883401_YOLOv4_Optimal_Speed_and_Accuracy_of_Object_Detection]
 
-### **Instance Segmentation Tasks Architectures**
+### **Segmentation Tasks Architectures**
 
+Instance Segemnetaion
 ![Segmentation](https://cdn.analyticsvidhya.com/wp-content/uploads/2019/07/feature_image.jpg)
 
-1 **MASK-RCNN**
+Semantic Segmentation
+![Segmentation](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUtknk8NRaYih_SBx5BZJjpb3OCoVOaJeunQ&usqp=CAU)
+
+
+1. **MASK-RCNN**
 [https://arxiv.org/pdf/1703.06870.pdf]
 
 
