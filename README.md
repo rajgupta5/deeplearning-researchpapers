@@ -99,6 +99,8 @@ Explanation
    11.4 ***YOLOv4***
     [https://www.researchgate.net/publication/340883401_YOLOv4_Optimal_Speed_and_Accuracy_of_Object_Detection]
 
+12 **MASK-RCNN**
+[https://arxiv.org/pdf/1703.06870.pdf]
 
 
 ## _**Natural Language Processing**_
