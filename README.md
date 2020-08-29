@@ -111,7 +111,7 @@ Instance Segemnetaion
 ![Segmentation](https://cdn.analyticsvidhya.com/wp-content/uploads/2019/07/feature_image.jpg)
 
 Semantic Segmentation
-![Segmentation](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQUtknk8NRaYih_SBx5BZJjpb3OCoVOaJeunQ&usqp=CAU)
+![Segmentation](https://cdn-images-1.medium.com/max/720/1*CRRcs2eAJIRS8Q-qa6_YMw.gif)
 
 
 1. **MASK-RCNN**
