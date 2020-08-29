@@ -20,6 +20,8 @@
 
 
 ## _**Computer Vision**_
+![CV](https://appsilondatascience.com/assets/uploads/2018/08/types.png)
+
 ![CNN Architectures timeline](https://miro.medium.com/max/5788/1*dc07I4_N_IWDJVb6cM-KsQ.png)
 
 ### **Image Classification Tasks Architectures**
@@ -57,6 +59,10 @@ Explanation
 [https://www.youtube.com/watch?v=EfpbbaJ_JG0&t=3404s]
 
 ### **Object Detection Tasks Architectures**
+
+![Object Detection](https://bitmovin.com/wp-content/uploads/2019/08/Object_detection_Blog_Image_Q3_19.jpg)
+
+
 ![OD Algos timeline](https://www.mdpi.com/electronics/electronics-09-00583/article_deploy/html/images/electronics-09-00583-g001.png)
 
 6. Selective Search for Object Recognition 
@@ -100,6 +106,8 @@ Explanation
     [https://www.researchgate.net/publication/340883401_YOLOv4_Optimal_Speed_and_Accuracy_of_Object_Detection]
 
 ### **Instance Segmentation Tasks Architectures**
+
+![Segmentation](https://cdn.analyticsvidhya.com/wp-content/uploads/2019/07/feature_image.jpg)
 
 1 **MASK-RCNN**
 [https://arxiv.org/pdf/1703.06870.pdf]
