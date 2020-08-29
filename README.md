@@ -107,15 +107,24 @@ Explanation
 
 ### **Segmentation Tasks Architectures**
 
-Instance Segemnetaion
+Instance Segementaion
+
 ![Segmentation](https://cdn.analyticsvidhya.com/wp-content/uploads/2019/07/feature_image.jpg)
 
 Semantic Segmentation
+
 ![Segmentation](https://cdn-images-1.medium.com/max/720/1*CRRcs2eAJIRS8Q-qa6_YMw.gif)
 
 
 1. **MASK-RCNN**
 [https://arxiv.org/pdf/1703.06870.pdf]
+
+### **Object Tracking Tasks Architectures**
+
+![Object Tracking](https://nanonets.com/blog/content/images/2019/07/object_tracker_gif.gif)
+
+1. **DeepSort**
+
 
 
 ## _**Natural Language Processing**_
