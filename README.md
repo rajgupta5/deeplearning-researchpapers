@@ -104,6 +104,9 @@ Explanation
   
    11.4 ***YOLOv4***
     [https://www.researchgate.net/publication/340883401_YOLOv4_Optimal_Speed_and_Accuracy_of_Object_Detection]
+    
+12. DETECTRON2
+[https://research.fb.com/wp-content/uploads/2019/12/4.-detectron2.pdf]
 
 ### **Segmentation Tasks Architectures**
 
