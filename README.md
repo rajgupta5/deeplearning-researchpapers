@@ -163,6 +163,9 @@ Explanation
 7. Effective Modeling of Encoder-Decoder Architecture for Joint Entity and Relation Extraction
 [https://arxiv.org/pdf/1911.09886.pdf]
 
+8. BiDirectional LSTM
+[https://arxiv.org/pdf/1508.01991.pdf]
+
 ### **NLP Language Models**
 1. GPT-1
 
