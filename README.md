@@ -1,6 +1,19 @@
 # deeplearning-researchpapers
 
 
+## **Deep Learning Important Milestones**
+[https://dennybritz.com/blog/deep-learning-most-important-ideas/]
+- 2012 - Tackling ImageNet with AlexNet and Dropout
+- 2013 - Playing Atari with Deep Reinforcement Learning
+- 2014 - Encoder-Decoder Networks with Attention
+- 2014 - Adam Optimizer
+- 2014/2015 - Generative Adversarial Networks (GANs)
+- 2015 - Residual Networks (ResNet)
+- 2017 - Transformers
+- 2018 - BERT and fine-tuned NLP Models
+- 2019/2020 and beyond - BIG Language Models, Self-Supervised Learning
+
+
 ## **Neural Network**
 1. Adam - A METHOD FOR STOCHASTIC OPTIMIZATION
 [https://arxiv.org/pdf/1412.6980.pdf]
@@ -198,4 +211,6 @@ Explanation
 
 10. XLNet - Generalized Autoregressive Pretraining for Language Understanding
 [https://arxiv.org/abs/1906.08237]
+
+
 
